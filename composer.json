@@ -8,5 +8,8 @@
       "name": "Carlos Reynosa",
       "email": "creynosa9@gmail.com"
     }
-  ]
+  ],
+  "require": {
+    "jwilsson/spotify-web-api-php": "0.8.*"
+  }
 }
