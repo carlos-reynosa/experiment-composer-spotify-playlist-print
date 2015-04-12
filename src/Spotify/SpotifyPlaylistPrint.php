@@ -1,6 +1,5 @@
 <?php
 namespace CarlosReynosa\Spotify;
-require '../vendor/autoload.php';
 
 class SpotifyPlaylistPrint{
 
