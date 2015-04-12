@@ -1,5 +1,5 @@
 {
-  "name": "carlos-reynosa/experiment-composer-test-package",
+  "name": "carlos-reynosa/experiment-composer-spotify-playlist-print",
   "description": "First composer package.",
   "minimum-stability": "stable",
   "license": "proprietary",
@@ -9,6 +9,11 @@
       "email": "creynosa9@gmail.com"
     }
   ],
+  "autoload":{
+   "psr-4":{
+    "CarlosReynosa\\Spotify\\" : "src/"
+   }
+  },
   "require": {
     "jwilsson/spotify-web-api-php": "0.8.*"
   }
