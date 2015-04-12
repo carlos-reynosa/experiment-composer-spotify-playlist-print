@@ -1,5 +1,5 @@
 {
-  "name": "carlos_reynosa/composer-test-package",
+  "name": "carlos-reynosa/composer-test-package",
   "description": "First composer package.",
   "minimum-stability": "stable",
   "license": "proprietary",
