@@ -2,6 +2,8 @@
 
 Composer project to test creating and using a composer package.
 
+Packagist page: https://packagist.org/packages/carlos-reynosa/experiment-composer-spotify-playlist-print
+
 #Example Use
 
 ```php
