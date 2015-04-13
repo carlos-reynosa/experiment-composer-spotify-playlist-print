@@ -14,6 +14,4 @@ $playlistId='1234';
 $printer = new SpotifyPlaylistPrint($clientId,$clientSecret);
 
 $printer->printList($userId,$playlistId);
-
-var_dump($printer->getPlaylistList('raveash','1LnGfWZxpGpKqKeThyYLfT'));
 ```
